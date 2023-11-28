@@ -7,6 +7,8 @@ Objetivo: Criar um sistema de gerenciamento de pedidos em um banco de dados util
 Crie as tabelas "Clientes" e "Pedidos" com campos apropriados. Insira dados de exemplo nas tabelas para simular clientes e pedidos. 
 Certifique-se de incluir uma chave primária em cada tabela.
 
+![image](https://github.com/YamasakaTeruo/AF_BancoDeDados_2/assets/144747935/095def0f-f502-4d8d-90d7-907964bcc30c)
+
 ![image](https://github.com/YamasakaTeruo/AF_BancoDeDados_2/assets/144747935/1ebdafc1-b979-4e5a-b48f-1916755e29a1)
 
 ![image](https://github.com/YamasakaTeruo/AF_BancoDeDados_2/assets/144747935/a5b7d5d0-a38f-4272-b513-cfc620b8824e)
